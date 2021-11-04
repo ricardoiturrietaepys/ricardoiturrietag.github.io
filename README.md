@@ -1,1 +1,1 @@
-# Blog Ricardo Iturrieta
+#Ricardo Iturrieta
